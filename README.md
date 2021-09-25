@@ -10,6 +10,7 @@ The purpose for this analysis project was to gain insight based off of the relat
 Breaking down the information into easily digestable data was the first challenge (example: color coding the outcomes). Filtering this data using several different filters, as well as pivot tables allowed for more readable data. 
 
 VLOOKUPS were also helpful with pulling very specific data quickly to pair up against Louise's campaign strategy (similar theater kickstarters that Louise selected as well as their goals and pledged data.)
+![V_Lookups_Chart](C:\Users\dwest\MSU\HW\module_1\HW01\kickstarter-analysis\images\v_lookups_example.jpg)
 
 Descriptive statistics also helped root out a strong potential kickstarter goal based off of the Successful and Failed Kickstarter information.
 
