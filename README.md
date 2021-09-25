@@ -13,6 +13,8 @@ VLOOKUPS were also helpful with pulling very specific data quickly to pair up ag
 ![V_Lookups_Chart](https://github.com/dwest85/kickstarter-analysis/blob/main/images/v_lookups_example.JPG)
 
 Descriptive statistics also helped root out a strong potential kickstarter goal based off of the Successful and Failed Kickstarter information.
+
+
 ![Descriptive_Statistics](https://github.com/dwest85/kickstarter-analysis/blob/main/images/d_statistics.JPG)
 
 Also, functions, such as =COUNTIFS() helped break down large groups of data in order to easily track and use the information (such as Outcomes Based on Goal data).
