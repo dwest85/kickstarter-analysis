@@ -13,9 +13,10 @@ VLOOKUPS were also helpful with pulling very specific data quickly to pair up ag
 ![V_Lookups_Chart](https://github.com/dwest85/kickstarter-analysis/blob/main/images/v_lookups_example.JPG)
 
 Descriptive statistics also helped root out a strong potential kickstarter goal based off of the Successful and Failed Kickstarter information.
+![Descriptive_Statistics]()
 
 Also, functions, such as =COUNTIFS() helped break down large groups of data in order to easily track and use the information (such as Outcomes Based on Goal data).
-
+![COUNTIFS_Function]()
 
 ### Analysis of Outcomes Based on Launch Date
 Based off of information filtered through the completed Launch Date visualization chart, the best time to launch the kickstarter would be between May and June. Our data showed that these months had the most successful theater campaigns pledged. 
